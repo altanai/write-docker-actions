@@ -20,5 +20,4 @@ fmt.Println("Hello " + secondGreeting)
 if thirdGreeting != "" {
     fmt.Println("Hello " + thirdGreeting)
     }
-
 }
